@@ -15,7 +15,7 @@ I'm currently exploring **backend development, full-stack applications, and syst
 
 ---
 
-# 🚀 Current Project
+# 💡 Current Project
 
 ### **Scriptorium (In Development)**
 
