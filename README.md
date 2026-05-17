@@ -13,20 +13,6 @@ I'm currently exploring **backend development, full-stack applications, and syst
 - Studying system design fundamentals  
 - Experimenting with SaaS-style applications  
 
----
-
-# 💡 Current Project
-
-### **Scriptorium (In Development)**
-
-A collaborative workspace concept that explores how teams can organize documents, files, and knowledge in one place.
-
-I'm experimenting with ideas like:
-
-- Shared knowledge workspaces  
-- AI-assisted search and retrieval  
-- Real-time collaboration  
-- SaaS-style application structure  
 
 ---
 
