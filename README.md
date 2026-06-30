@@ -6,4 +6,4 @@ I'm currently exploring **backend development, full-stack applications, and syst
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,react,supabase,tensoflow,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,react,supabase,tensorflow,py,cpp,java)](https://skillicons.dev)
