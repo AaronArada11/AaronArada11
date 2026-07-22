@@ -6,4 +6,8 @@ I'm currently exploring **RAG systems, full-stack applications, and system desig
 
 ---
 
+[![Let's Connect](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
+
+---
+
 [![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,react,supabase,tensorflow,py,cpp,java)](https://skillicons.dev)
