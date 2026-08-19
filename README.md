@@ -15,4 +15,4 @@ I'm currently exploring **RAG systems, full-stack applications, and system desig
 
 ### 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,react,supabase,tensorflow,py,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,react,supabase,tensorflow,py,)](https://skillicons.dev)
